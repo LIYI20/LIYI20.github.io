@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/posts/96da010c.html</loc>
+    <loc>https://liyi20.github.io/tags/index.html</loc>
     
     <lastmod>2023-04-22</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/dfa590a7.html</loc>
+    <loc>https://liyi20.github.io/posts/96da010c.html</loc>
     
     <lastmod>2023-04-22</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/about/index.html</loc>
+    <loc>https://liyi20.github.io/posts/dfa590a7.html</loc>
     
     <lastmod>2023-04-22</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>https://liyi20.github.io/about/index.html</loc>
     
     <lastmod>2023-04-22</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>https://liyi20.github.io/categories/index.html</loc>
     
     <lastmod>2023-04-22</lastmod>
     
@@ -48,7 +48,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://liyi20.github.io/</loc>
     <lastmod>2023-04-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -56,14 +56,14 @@
 
   
   <url>
-    <loc>http://example.com/tags/study/</loc>
+    <loc>https://liyi20.github.io/tags/study/</loc>
     <lastmod>2023-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/school-life/</loc>
+    <loc>https://liyi20.github.io/tags/school-life/</loc>
     <lastmod>2023-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
