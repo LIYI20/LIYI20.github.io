@@ -4,8 +4,7 @@ var now = new Date; function createtime() {
         a = Math.floor(e), n = (now - t) / 1e3 / 60 / 60 - 24 * a, r = Math.floor(n);
     1 == String(r).length && (r = "0" + r); var s = (now - t) / 1e3 / 60 - 1440 * a - 60 * r, i = Math.floor(s);
     1 == String(i).length && (i = "0" + i); var o = (now - t) / 1e3 - 86400 * a - 3600 * r - 60 * i, l = Math.round(o);
-    1 == String(l).length && (l = "0" + l); let g = ""; g = r < 18 && r >= 9 ? `<img class='boardsign' src='' 
-    title='距离月入25k也就还差一个大佬带我~'><span class='textTip'>
-    <br> 本站居然运行了 ${a} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${l} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>` : `<img class='boardsign' src='' title='晚上了可以开开心心的玩耍了，嘿嘿~'>
-    <span class='textTip'> <br> 本站居然运行了 ${a} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${l} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`, document.getElementById("workboard") && (document.getElementById("workboard").innerHTML = g)
+    1 == String(l).length && (l = "0" + l); let g = ""; g = r < 18 && r >= 9 ? `<img class="boardsign" src title="距离月入25k也就还差一个大佬带我~"><span class="textTip">
+    <br> 本站居然运行了 ${a} 天</span><span id="runtime"> ${r} 小时 ${i} 分 ${l} 秒 </span> <i class="fas fa-heartbeat" style="color:red"></i>` : `<img class="boardsign" src title="晚上了可以开开心心的玩耍了，嘿嘿~">
+    <span class="textTip"> <br> 本站居然运行了 ${a} 天</span><span id="runtime"> ${r} 小时 ${i} 分 ${l} 秒 </span> <i class="fas fa-heartbeat" style="color:red"></i>`, document.getElementById("workboard") && (document.getElementById("workboard").innerHTML = g)
 } setInterval((() => { createtime() }), 250);
