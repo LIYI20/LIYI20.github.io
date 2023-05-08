@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://liyi20.github.io/tags/index.html</loc>
-    
-    <lastmod>2023-05-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://liyi20.github.io/posts/96da010c.html</loc>
     
     <lastmod>2023-05-08</lastmod>
@@ -48,6 +39,15 @@
   
   <url>
     <loc>https://liyi20.github.io/categories/index.html</loc>
+    
+    <lastmod>2023-05-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://liyi20.github.io/tags/index.html</loc>
     
     <lastmod>2023-05-08</lastmod>
     
